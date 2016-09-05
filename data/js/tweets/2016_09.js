@@ -1,6 +1,1421 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 01:20:10 +0000 2016",
+		"id": 772605209654751200,
+		"id_str": "772605209654751232",
+		"text": "RT @fairlyspiritual: Be the trending hashtag you want to see in the world.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fairlyspiritual",
+					"name": "Doug  Bursch",
+					"id": 24233147,
+					"id_str": "24233147",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1526,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10062,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 05 00:57:10 +0000 2016",
+			"id": 772599420403658800,
+			"id_str": "772599420403658752",
+			"text": "Be the trending hashtag you want to see in the world.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24233147,
+				"id_str": "24233147",
+				"name": "Doug  Bursch",
+				"screen_name": "fairlyspiritual",
+				"location": "Seattle",
+				"description": "Equally unbalanced as a pastor, writer, evangelist and something else. . . looking to facilitate reconciliation thru truth & love.",
+				"url": "https://t.co/6bLjXXmszr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6bLjXXmszr",
+								"expanded_url": "http://www.fairlyspiritual.org",
+								"display_url": "fairlyspiritual.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3376,
+				"friends_count": 2338,
+				"listed_count": 107,
+				"created_at": "Fri Mar 13 19:23:52 +0000 2009",
+				"favourites_count": 13525,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36934,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/748967708759175169/-UEetCm7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/748967708759175169/-UEetCm7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24233147/1458059210",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 05 01:15:08 +0000 2016",
+		"id": 772603941762822100,
+		"id_str": "772603941762822144",
+		"text": "RT @SoulHarmonyInc: you can stay where you are in your thought patterns or you can pull yourself out of the self pity and move to a higher…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SoulHarmonyInc",
+					"name": "Dylan Hollingsworth",
+					"id": 557446380,
+					"id_str": "557446380",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1526,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10062,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 06 01:18:20 +0000 2016",
+			"id": 761733108961902600,
+			"id_str": "761733108961902593",
+			"text": "you can stay where you are in your thought patterns or you can pull yourself out of the self pity and move to a higher vibration.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 557446380,
+				"id_str": "557446380",
+				"name": "Dylan Hollingsworth",
+				"screen_name": "SoulHarmonyInc",
+				"location": "Las Vegas, NV ✈️ Aubrey, TX",
+				"description": "just a trippy dude with some tatts CEO of Soul harmony World wide shipping✈️",
+				"url": "https://t.co/Z0csoKyO5h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z0csoKyO5h",
+								"expanded_url": "http://www.soulharmonyapparel.com",
+								"display_url": "soulharmonyapparel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8879,
+				"friends_count": 129,
+				"listed_count": 40,
+				"created_at": "Thu Apr 19 02:39:57 +0000 2012",
+				"favourites_count": 6339,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4279,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/761586068412047360/hD720s3v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/761586068412047360/hD720s3v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/557446380/1465317358",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 361,
+			"favorite_count": 445,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 361,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 05 01:10:30 +0000 2016",
+		"id": 772602775511371800,
+		"id_str": "772602775511371780",
+		"text": "RT @Nigelstewart76: I bumped into this wild Buzzard earlier we stood and watched each other so close amazing experience https://t.co/OubzJ9…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nigelstewart76",
+					"name": "Nigel Stewart/NIGS",
+					"id": 4906259687,
+					"id_str": "4906259687",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 772475055905333200,
+					"id_str": "772475055905333249",
+					"indices": [
+						120,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Crhh-HkWYAE7ttF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Crhh-HkWYAE7ttF.jpg",
+					"url": "https://t.co/OubzJ91mSl",
+					"display_url": "pic.twitter.com/OubzJ91mSl",
+					"expanded_url": "https://twitter.com/Nigelstewart76/status/772475123467255808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 772475123467255800,
+					"source_status_id_str": "772475123467255808",
+					"source_user_id": 4906259687,
+					"source_user_id_str": "4906259687"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 772475055905333200,
+					"id_str": "772475055905333249",
+					"indices": [
+						120,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Crhh-HkWYAE7ttF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Crhh-HkWYAE7ttF.jpg",
+					"url": "https://t.co/OubzJ91mSl",
+					"display_url": "pic.twitter.com/OubzJ91mSl",
+					"expanded_url": "https://twitter.com/Nigelstewart76/status/772475123467255808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 772475123467255800,
+					"source_status_id_str": "772475123467255808",
+					"source_user_id": 4906259687,
+					"source_user_id_str": "4906259687"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1526,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10062,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 04 16:43:15 +0000 2016",
+			"id": 772475123467255800,
+			"id_str": "772475123467255808",
+			"text": "I bumped into this wild Buzzard earlier we stood and watched each other so close amazing experience https://t.co/OubzJ91mSl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 772475055905333200,
+						"id_str": "772475055905333249",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/Crhh-HkWYAE7ttF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Crhh-HkWYAE7ttF.jpg",
+						"url": "https://t.co/OubzJ91mSl",
+						"display_url": "pic.twitter.com/OubzJ91mSl",
+						"expanded_url": "https://twitter.com/Nigelstewart76/status/772475123467255808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 772475055905333200,
+						"id_str": "772475055905333249",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/Crhh-HkWYAE7ttF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Crhh-HkWYAE7ttF.jpg",
+						"url": "https://t.co/OubzJ91mSl",
+						"display_url": "pic.twitter.com/OubzJ91mSl",
+						"expanded_url": "https://twitter.com/Nigelstewart76/status/772475123467255808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4906259687,
+				"id_str": "4906259687",
+				"name": "Nigel Stewart/NIGS",
+				"screen_name": "Nigelstewart76",
+				"location": "Edinburgh, Scotland",
+				"description": "I'm Just a guy who enjoys wildlife and nature. Love walking my dog and the countryside i also like taking pics along the way. I have a bridge camera. LFC Fan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1314,
+				"friends_count": 999,
+				"listed_count": 40,
+				"created_at": "Sat Feb 13 22:00:16 +0000 2016",
+				"favourites_count": 36304,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749295753298898944/tLlC04h0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749295753298898944/tLlC04h0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4906259687/1471213213",
+				"profile_link_color": "2B7BB9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3cee35746b4e42ab",
+				"url": "https://api.twitter.com/1.1/geo/id/3cee35746b4e42ab.json",
+				"place_type": "city",
+				"name": "Rosewell",
+				"full_name": "Rosewell, Scotland",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-3.1447881,
+								55.8446243
+							],
+							[
+								-3.1310203,
+								55.8446243
+							],
+							[
+								-3.1310203,
+								55.858038
+							],
+							[
+								-3.1447881,
+								55.858038
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 121,
+			"favorite_count": 333,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 05 01:10:01 +0000 2016",
+		"id": 772602653004144600,
+		"id_str": "772602653004144640",
+		"text": "RT @CamoDave_: Just rescued a Pipistrelle Bat from my bloody cat, luckily not a mark on it, took it into the garden and it flew off https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CamoDave_",
+					"name": "Camo Dave",
+					"id": 815384234,
+					"id_str": "815384234",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 772542235296530400,
+					"id_str": "772542235296530436",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CrifEeTWAAQHRc3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrifEeTWAAQHRc3.jpg",
+					"url": "https://t.co/TXsIYIbIFY",
+					"display_url": "pic.twitter.com/TXsIYIbIFY",
+					"expanded_url": "https://twitter.com/CamoDave_/status/772542452687396864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 670,
+							"h": 596,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 670,
+							"h": 596,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 670,
+							"h": 596,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 772542452687396900,
+					"source_status_id_str": "772542452687396864",
+					"source_user_id": 815384234,
+					"source_user_id_str": "815384234"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 772542235296530400,
+					"id_str": "772542235296530436",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CrifEeTWAAQHRc3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrifEeTWAAQHRc3.jpg",
+					"url": "https://t.co/TXsIYIbIFY",
+					"display_url": "pic.twitter.com/TXsIYIbIFY",
+					"expanded_url": "https://twitter.com/CamoDave_/status/772542452687396864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 670,
+							"h": 596,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 670,
+							"h": 596,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 670,
+							"h": 596,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 772542452687396900,
+					"source_status_id_str": "772542452687396864",
+					"source_user_id": 815384234,
+					"source_user_id_str": "815384234"
+				},
+				{
+					"id": 772542255408250900,
+					"id_str": "772542255408250880",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CrifFpOWgAA6hFL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrifFpOWgAA6hFL.jpg",
+					"url": "https://t.co/TXsIYIbIFY",
+					"display_url": "pic.twitter.com/TXsIYIbIFY",
+					"expanded_url": "https://twitter.com/CamoDave_/status/772542452687396864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 661,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 661,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 661,
+							"h": 670,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 772542452687396900,
+					"source_status_id_str": "772542452687396864",
+					"source_user_id": 815384234,
+					"source_user_id_str": "815384234"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1526,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10062,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 04 21:10:48 +0000 2016",
+			"id": 772542452687396900,
+			"id_str": "772542452687396864",
+			"text": "Just rescued a Pipistrelle Bat from my bloody cat, luckily not a mark on it, took it into the garden and it flew off https://t.co/TXsIYIbIFY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 772542235296530400,
+						"id_str": "772542235296530436",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CrifEeTWAAQHRc3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrifEeTWAAQHRc3.jpg",
+						"url": "https://t.co/TXsIYIbIFY",
+						"display_url": "pic.twitter.com/TXsIYIbIFY",
+						"expanded_url": "https://twitter.com/CamoDave_/status/772542452687396864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 670,
+								"h": 596,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 670,
+								"h": 596,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 670,
+								"h": 596,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 772542235296530400,
+						"id_str": "772542235296530436",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CrifEeTWAAQHRc3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrifEeTWAAQHRc3.jpg",
+						"url": "https://t.co/TXsIYIbIFY",
+						"display_url": "pic.twitter.com/TXsIYIbIFY",
+						"expanded_url": "https://twitter.com/CamoDave_/status/772542452687396864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 670,
+								"h": 596,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 670,
+								"h": 596,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 670,
+								"h": 596,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 772542255408250900,
+						"id_str": "772542255408250880",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CrifFpOWgAA6hFL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrifFpOWgAA6hFL.jpg",
+						"url": "https://t.co/TXsIYIbIFY",
+						"display_url": "pic.twitter.com/TXsIYIbIFY",
+						"expanded_url": "https://twitter.com/CamoDave_/status/772542452687396864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 661,
+								"h": 670,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 661,
+								"h": 670,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 661,
+								"h": 670,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 815384234,
+				"id_str": "815384234",
+				"name": "Camo Dave",
+				"screen_name": "CamoDave_",
+				"location": "Northwich,Cheshire, UK.",
+				"description": "Bird Watcher, Bird Ringer, Lover of anything Wildlife,Have my own website with Live cams.",
+				"url": "http://t.co/kJNobGca43",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kJNobGca43",
+								"expanded_url": "http://www.camodave.co.uk",
+								"display_url": "camodave.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7281,
+				"friends_count": 4898,
+				"listed_count": 127,
+				"created_at": "Mon Sep 10 14:52:40 +0000 2012",
+				"favourites_count": 24894,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41988,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623232148766617601/nmgQzYlt.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623232148766617601/nmgQzYlt.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749321167102742528/95l7jVHZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749321167102742528/95l7jVHZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/815384234/1424726730",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5c6453db6560163a",
+				"url": "https://api.twitter.com/1.1/geo/id/5c6453db6560163a.json",
+				"place_type": "city",
+				"name": "Stoke-on-Trent",
+				"full_name": "Stoke-on-Trent, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.226804,
+								52.9489413
+							],
+							[
+								-2.081221,
+								52.9489413
+							],
+							[
+								-2.081221,
+								53.089852
+							],
+							[
+								-2.226804,
+								53.089852
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 46,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 04 01:26:12 +0000 2016",
+		"id": 772244337769979900,
+		"id_str": "772244337769979904",
+		"text": "RT @AlisynGayle: “Fracking Bans Are No Longer Allowed In Oklahoma” by ThinkProgress https://t.co/aMVneFA10b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlisynGayle",
+					"name": "Alisyn Gayle",
+					"id": 90733366,
+					"id_str": "90733366",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aMVneFA10b",
+					"expanded_url": "https://thinkprogress.org/fracking-bans-are-no-longer-allowed-in-oklahoma-6bae827748a0#.bwtz2fnm4",
+					"display_url": "thinkprogress.org/fracking-bans-…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1526,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10062,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43950,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 04 01:22:47 +0000 2016",
+			"id": 772243476918534100,
+			"id_str": "772243476918534145",
+			"text": "“Fracking Bans Are No Longer Allowed In Oklahoma” by ThinkProgress https://t.co/aMVneFA10b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aMVneFA10b",
+						"expanded_url": "https://thinkprogress.org/fracking-bans-are-no-longer-allowed-in-oklahoma-6bae827748a0#.bwtz2fnm4",
+						"display_url": "thinkprogress.org/fracking-bans-…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90733366,
+				"id_str": "90733366",
+				"name": "Alisyn Gayle",
+				"screen_name": "AlisynGayle",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2170,
+				"friends_count": 1502,
+				"listed_count": 338,
+				"created_at": "Tue Nov 17 22:14:35 +0000 2009",
+				"favourites_count": 6434,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 86825,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F0E0E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/462952291612368897/4AvbF1M-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/462952291612368897/4AvbF1M-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90733366/1431393634",
+				"profile_link_color": "388F10",
+				"profile_sidebar_border_color": "4D7D09",
+				"profile_sidebar_fill_color": "7EFC2A",
+				"profile_text_color": "010A01",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 04 00:16:05 +0000 2016",
 		"id": 772226692832194600,
 		"id_str": "772226692832194560",
