@@ -1,6 +1,921 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 00:36:23 +0000 2016",
+		"id": 773681353183338500,
+		"id_str": "773681353183338496",
+		"text": "@aliceinthewater so precious! lol",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aliceinthewater",
+					"name": "aliceinthewater",
+					"id": 17489079,
+					"id_str": "17489079",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 773670187891437600,
+		"in_reply_to_status_id_str": "773670187891437568",
+		"in_reply_to_user_id": 17489079,
+		"in_reply_to_user_id_str": "17489079",
+		"in_reply_to_screen_name": "aliceinthewater",
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1527,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10085,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 07 17:04:51 +0000 2016",
+		"id": 773567721145569300,
+		"id_str": "773567721145569281",
+		"text": "Would An Eternity In Hell Even Be Fair? (The Problem of Proportionality) https://t.co/qMkHXoL8xJ via @sharethis",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShareThis",
+					"name": "ShareThis",
+					"id": 14116807,
+					"id_str": "14116807",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qMkHXoL8xJ",
+					"expanded_url": "https://shar.es/1wDt5D",
+					"display_url": "shar.es/1wDt5D",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1527,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10085,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 07 15:58:34 +0000 2016",
+		"id": 773551039186341900,
+		"id_str": "773551039186341888",
+		"text": "RT @shop4autism: Cross-section of the Titanic https://t.co/8RdaxH0Gdr RT #4charity #4charitytweets",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "4charity",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "4charitytweets",
+					"indices": [
+						83,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shop4autism",
+					"name": "Shop 4 Autism",
+					"id": 2874856874,
+					"id_str": "2874856874",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 566300428665487360,
+					"id_str": "566300428665487360",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/B9vnPU7CAAA7Bw3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/B9vnPU7CAAA7Bw3.jpg",
+					"url": "https://t.co/8RdaxH0Gdr",
+					"display_url": "pic.twitter.com/8RdaxH0Gdr",
+					"expanded_url": "http://twitter.com/HistoryInPics/status/566300429097517057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 599,
+							"h": 825,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 599,
+							"h": 825,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 468,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 566300429097517060,
+					"source_status_id_str": "566300429097517057",
+					"source_user_id": 1582853809,
+					"source_user_id_str": "1582853809"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 566300428665487360,
+					"id_str": "566300428665487360",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/B9vnPU7CAAA7Bw3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/B9vnPU7CAAA7Bw3.jpg",
+					"url": "https://t.co/8RdaxH0Gdr",
+					"display_url": "pic.twitter.com/8RdaxH0Gdr",
+					"expanded_url": "http://twitter.com/HistoryInPics/status/566300429097517057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 599,
+							"h": 825,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 599,
+							"h": 825,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 468,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 566300429097517060,
+					"source_status_id_str": "566300429097517057",
+					"source_user_id": 1582853809,
+					"source_user_id_str": "1582853809"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1527,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10085,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 07 04:10:38 +0000 2016",
+			"id": 773372883229868000,
+			"id_str": "773372883229868032",
+			"text": "Cross-section of the Titanic https://t.co/8RdaxH0Gdr RT #4charity #4charitytweets",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "4charity",
+						"indices": [
+							56,
+							65
+						]
+					},
+					{
+						"text": "4charitytweets",
+						"indices": [
+							66,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 566300428665487360,
+						"id_str": "566300428665487360",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/B9vnPU7CAAA7Bw3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/B9vnPU7CAAA7Bw3.jpg",
+						"url": "https://t.co/8RdaxH0Gdr",
+						"display_url": "pic.twitter.com/8RdaxH0Gdr",
+						"expanded_url": "http://twitter.com/HistoryInPics/status/566300429097517057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 599,
+								"h": 825,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 599,
+								"h": 825,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 468,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 566300429097517060,
+						"source_status_id_str": "566300429097517057",
+						"source_user_id": 1582853809,
+						"source_user_id_str": "1582853809"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 566300428665487360,
+						"id_str": "566300428665487360",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/media/B9vnPU7CAAA7Bw3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/B9vnPU7CAAA7Bw3.jpg",
+						"url": "https://t.co/8RdaxH0Gdr",
+						"display_url": "pic.twitter.com/8RdaxH0Gdr",
+						"expanded_url": "http://twitter.com/HistoryInPics/status/566300429097517057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 599,
+								"h": 825,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 599,
+								"h": 825,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 468,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 566300429097517060,
+						"source_status_id_str": "566300429097517057",
+						"source_user_id": 1582853809,
+						"source_user_id_str": "1582853809"
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2874856874,
+				"id_str": "2874856874",
+				"name": "Shop 4 Autism",
+				"screen_name": "shop4autism",
+				"location": "cleveland, oh - san diego, ca",
+				"description": "Shop for the cause. Please help us get answers. Help treat, tweet, retweet, and defeat Autism. #AutismAwareness #Autistic #Autism. @Shop4Charities via #4Charity",
+				"url": "https://t.co/PR3DHDfxAr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PR3DHDfxAr",
+								"expanded_url": "http://Shop4Charities.org",
+								"display_url": "Shop4Charities.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4717,
+				"friends_count": 4726,
+				"listed_count": 435,
+				"created_at": "Fri Oct 24 09:01:17 +0000 2014",
+				"favourites_count": 206,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22288,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/527148059356958720/h5SsyBAq_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/527148059356958720/h5SsyBAq_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2874856874/1425062792",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 07 15:56:29 +0000 2016",
+		"id": 773550515724640300,
+		"id_str": "773550515724640257",
+		"text": "RT @epilepsytech: An appeal to the hive mind, particularly neuros. I collapsed 30 times in one afternoon. Its getting scary  https://t.co/R…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "epilepsytech",
+					"name": "Jenny Gristock",
+					"id": 3064076661,
+					"id_str": "3064076661",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RFk6vAYLaq",
+					"expanded_url": "http://gristock.net/neurotech/2016/09/06/why-does-my-left-leg-keep-dropping-out/",
+					"display_url": "gristock.net/neurotech/2016…",
+					"indices": [
+						125,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1527,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10085,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 06 21:27:06 +0000 2016",
+			"id": 773271332075298800,
+			"id_str": "773271332075298816",
+			"text": "An appeal to the hive mind, particularly neuros. I collapsed 30 times in one afternoon. Its getting scary  https://t.co/RFk6vAYLaq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RFk6vAYLaq",
+						"expanded_url": "http://gristock.net/neurotech/2016/09/06/why-does-my-left-leg-keep-dropping-out/",
+						"display_url": "gristock.net/neurotech/2016…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3064076661,
+				"id_str": "3064076661",
+				"name": "Jenny Gristock",
+				"screen_name": "epilepsytech",
+				"location": "South East, England",
+				"description": "Erstwhile postdoc of SISSA's Neurobiology Dept. Developing tech to help e peeps.",
+				"url": "https://t.co/ZuYcy49JaY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZuYcy49JaY",
+								"expanded_url": "https://www.facebook.com/epilepsytechnologies/",
+								"display_url": "facebook.com/epilepsytechno…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 292,
+				"friends_count": 459,
+				"listed_count": 16,
+				"created_at": "Thu Feb 26 22:52:08 +0000 2015",
+				"favourites_count": 621,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1856,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757238159709175808/wKoUU4QF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757238159709175808/wKoUU4QF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3064076661/1424991525",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 07 15:52:37 +0000 2016",
+		"id": 773549543271137300,
+		"id_str": "773549543271137280",
+		"text": "@aliceinthewater oh jeeez.. when i forget my effexor, i want to die so I get it.. ugh, you poor thing.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aliceinthewater",
+					"name": "aliceinthewater",
+					"id": 17489079,
+					"id_str": "17489079",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 773525251162386400,
+		"in_reply_to_status_id_str": "773525251162386432",
+		"in_reply_to_user_id": 17489079,
+		"in_reply_to_user_id_str": "17489079",
+		"in_reply_to_screen_name": "aliceinthewater",
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 1527,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10085,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 07 00:53:23 +0000 2016",
 		"id": 773323244812263400,
 		"id_str": "773323244812263426",
@@ -2494,7 +3409,7 @@ Grailbird.data.tweets_2016_09 =
 				"created_at": "Mon Sep 05 23:58:41 +0000 2016",
 				"id": 772947091651960800,
 				"id_str": "772947091651960832",
-				"text": "Trump statement on ​Phyllis Schlafly: https://t.co/lFE7apD1XC",
+				"text": "Trump statement on Phyllis Schlafly: https://t.co/lFE7apD1XC",
 				"truncated": false,
 				"entities": {
 					"hashtags": [],
