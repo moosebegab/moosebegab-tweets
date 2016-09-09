@@ -1,6 +1,621 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 01:02:24 +0000 2016",
+		"id": 774050286939758600,
+		"id_str": "774050286939758593",
+		"text": "RT @beardonabike: When you read/hear something you disagree with, power through it. Practice slowing a quickening pulse &amp; just sit with it…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardonabike",
+					"name": "Shane Blackshear",
+					"id": 23150269,
+					"id_str": "23150269",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1540,
+			"friends_count": 1527,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10091,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 08 16:05:20 +0000 2016",
+			"id": 773915130019000300,
+			"id_str": "773915130019000320",
+			"text": "When you read/hear something you disagree with, power through it. Practice slowing a quickening pulse &amp; just sit with it for awhile.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23150269,
+				"id_str": "23150269",
+				"name": "Shane Blackshear",
+				"screen_name": "beardonabike",
+				"location": "Austin, TX",
+				"description": "Jesus follower, blogger, speaker & podcast host at http://t.co/pknNgdvSLs. I'm a guy and I do some things sometimes.",
+				"url": "http://t.co/ceZZiPREVj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ceZZiPREVj",
+								"expanded_url": "http://www.shaneblackshear.com",
+								"display_url": "shaneblackshear.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/pknNgdvSLs",
+								"expanded_url": "http://SeminaryDropout.com",
+								"display_url": "SeminaryDropout.com",
+								"indices": [
+									51,
+									73
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 20733,
+				"friends_count": 18706,
+				"listed_count": 300,
+				"created_at": "Sat Mar 07 01:49:59 +0000 2009",
+				"favourites_count": 5078,
+				"utc_offset": -28800,
+				"time_zone": "Alaska",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14685,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/518088147050045440/8M126Hyg.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/518088147050045440/8M126Hyg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/461260607669293056/udIfmFCN_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/461260607669293056/udIfmFCN_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23150269/1412357004",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 31,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 09 00:10:19 +0000 2016",
+		"id": 774037182524694500,
+		"id_str": "774037182524694528",
+		"text": "RT @jaystebbins: @Taniel @DavidCornDC @mike_pence Trump's idea of \"strength\" should scare the crap out of every American. https://t.co/nz4u…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaystebbins",
+					"name": "Jay Stebbins",
+					"id": 414412006,
+					"id_str": "414412006",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Taniel",
+					"name": "Taniel",
+					"id": 15537302,
+					"id_str": "15537302",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "DavidCornDC",
+					"name": "David Corn",
+					"id": 15220768,
+					"id_str": "15220768",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "mike_pence",
+					"name": "Mike Pence",
+					"id": 22203756,
+					"id_str": "22203756",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 774007458352074800,
+					"id_str": "774007458352074752",
+					"indices": [
+						122,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr3TrriUEAAIfJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr3TrriUEAAIfJX.jpg",
+					"url": "https://t.co/nz4unC565W",
+					"display_url": "pic.twitter.com/nz4unC565W",
+					"expanded_url": "https://twitter.com/jaystebbins/status/774007463104290816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 747,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 747,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 324,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 774007463104290800,
+					"source_status_id_str": "774007463104290816",
+					"source_user_id": 414412006,
+					"source_user_id_str": "414412006"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 774007458352074800,
+					"id_str": "774007458352074752",
+					"indices": [
+						122,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr3TrriUEAAIfJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr3TrriUEAAIfJX.jpg",
+					"url": "https://t.co/nz4unC565W",
+					"display_url": "pic.twitter.com/nz4unC565W",
+					"expanded_url": "https://twitter.com/jaystebbins/status/774007463104290816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 747,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 747,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 324,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 774007463104290800,
+					"source_status_id_str": "774007463104290816",
+					"source_user_id": 414412006,
+					"source_user_id_str": "414412006"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1540,
+			"friends_count": 1527,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10091,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 08 22:12:14 +0000 2016",
+			"id": 774007463104290800,
+			"id_str": "774007463104290816",
+			"text": "@Taniel @DavidCornDC @mike_pence Trump's idea of \"strength\" should scare the crap out of every American. https://t.co/nz4unC565W",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Taniel",
+						"name": "Taniel",
+						"id": 15537302,
+						"id_str": "15537302",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "DavidCornDC",
+						"name": "David Corn",
+						"id": 15220768,
+						"id_str": "15220768",
+						"indices": [
+							8,
+							20
+						]
+					},
+					{
+						"screen_name": "mike_pence",
+						"name": "Mike Pence",
+						"id": 22203756,
+						"id_str": "22203756",
+						"indices": [
+							21,
+							32
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 774007458352074800,
+						"id_str": "774007458352074752",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr3TrriUEAAIfJX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr3TrriUEAAIfJX.jpg",
+						"url": "https://t.co/nz4unC565W",
+						"display_url": "pic.twitter.com/nz4unC565W",
+						"expanded_url": "https://twitter.com/jaystebbins/status/774007463104290816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 747,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 747,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 324,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 774007458352074800,
+						"id_str": "774007458352074752",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr3TrriUEAAIfJX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr3TrriUEAAIfJX.jpg",
+						"url": "https://t.co/nz4unC565W",
+						"display_url": "pic.twitter.com/nz4unC565W",
+						"expanded_url": "https://twitter.com/jaystebbins/status/774007463104290816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 747,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 747,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 324,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 774001854942437400,
+			"in_reply_to_status_id_str": "774001854942437376",
+			"in_reply_to_user_id": 15537302,
+			"in_reply_to_user_id_str": "15537302",
+			"in_reply_to_screen_name": "Taniel",
+			"user": {
+				"id": 414412006,
+				"id_str": "414412006",
+				"name": "Jay Stebbins",
+				"screen_name": "jaystebbins",
+				"location": "San Francisco, CA",
+				"description": "Started with nothing and that didn't stop me, neither could leukemia... I believe the best solutions are found when opposites work together.",
+				"url": "https://t.co/L05Nji11EQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L05Nji11EQ",
+								"expanded_url": "https://www.linkedin.com/in/jaystebbins",
+								"display_url": "linkedin.com/in/jaystebbins",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 187,
+				"friends_count": 428,
+				"listed_count": 19,
+				"created_at": "Thu Nov 17 01:06:20 +0000 2011",
+				"favourites_count": 2058,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3747,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/366354640/subtle_orange_emboss.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/366354640/subtle_orange_emboss.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/495321645955809280/EnpR_v74_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/495321645955809280/EnpR_v74_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/414412006/1399318677",
+				"profile_link_color": "4D86A1",
+				"profile_sidebar_border_color": "3D86A8",
+				"profile_sidebar_fill_color": "EDF9FF",
+				"profile_text_color": "4D471F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 08 00:36:23 +0000 2016",
 		"id": 773681353183338500,
 		"id_str": "773681353183338496",
