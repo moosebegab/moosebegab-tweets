@@ -1,6 +1,1994 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 01:16:51 +0000 2016",
+		"id": 776590639827914800,
+		"id_str": "776590639827914752",
+		"text": "RT @GoddessKerriLyn: WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 6\n✅ I never heard of that. Is it real?\n✅ yesterday u… why can't u today?…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHRONICALLY",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoddessKerriLyn",
+					"name": "Kerri Lyn",
+					"id": 2920759605,
+					"id_str": "2920759605",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1543,
+			"friends_count": 1530,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10170,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 15 22:27:18 +0000 2016",
+			"id": 776547971018190800,
+			"id_str": "776547971018190850",
+			"text": "WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 6\n✅ I never heard of that. Is it real?\n✅ yesterday u… why can't u today?\n✅ oh I get that too.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CHRONICALLY",
+						"indices": [
+							23,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 776547430254907400,
+			"in_reply_to_status_id_str": "776547430254907393",
+			"in_reply_to_user_id": 2920759605,
+			"in_reply_to_user_id_str": "2920759605",
+			"in_reply_to_screen_name": "GoddessKerriLyn",
+			"user": {
+				"id": 2920759605,
+				"id_str": "2920759605",
+				"name": "Kerri Lyn",
+				"screen_name": "GoddessKerriLyn",
+				"location": "United States",
+				"description": "♦ Fat Disabled Feminist Witch ♦The B in LGBT ♦#BlackLivesMatter♦#ImWithHer ♦#TrumpIsARapist♦GoddessKerriLyn{at}gmail ♦Facebook: https://t.co/dxiW6zhl1A",
+				"url": "https://t.co/MwweGTACSW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MwweGTACSW",
+								"expanded_url": "https://goddesskerrilyn.wordpress.com/blog/",
+								"display_url": "goddesskerrilyn.wordpress.com/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dxiW6zhl1A",
+								"expanded_url": "http://bit.ly/296iGIi",
+								"display_url": "bit.ly/296iGIi",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10469,
+				"friends_count": 111,
+				"listed_count": 240,
+				"created_at": "Sun Dec 14 03:06:10 +0000 2014",
+				"favourites_count": 1675,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2920759605/1441731753",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 01:16:39 +0000 2016",
+		"id": 776590587726274600,
+		"id_str": "776590587726274562",
+		"text": "RT @GoddessKerriLyn: WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 5\n✅ it could be worse\n✅ you should stop…\n✅ you should start…\n✅ you take…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHRONICALLY",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoddessKerriLyn",
+					"name": "Kerri Lyn",
+					"id": 2920759605,
+					"id_str": "2920759605",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1543,
+			"friends_count": 1530,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10170,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 15 22:25:09 +0000 2016",
+			"id": 776547430254907400,
+			"id_str": "776547430254907393",
+			"text": "WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 5\n✅ it could be worse\n✅ you should stop…\n✅ you should start…\n✅ you take too many medications",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CHRONICALLY",
+						"indices": [
+							23,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 776546964657889300,
+			"in_reply_to_status_id_str": "776546964657889280",
+			"in_reply_to_user_id": 2920759605,
+			"in_reply_to_user_id_str": "2920759605",
+			"in_reply_to_screen_name": "GoddessKerriLyn",
+			"user": {
+				"id": 2920759605,
+				"id_str": "2920759605",
+				"name": "Kerri Lyn",
+				"screen_name": "GoddessKerriLyn",
+				"location": "United States",
+				"description": "♦ Fat Disabled Feminist Witch ♦The B in LGBT ♦#BlackLivesMatter♦#ImWithHer ♦#TrumpIsARapist♦GoddessKerriLyn{at}gmail ♦Facebook: https://t.co/dxiW6zhl1A",
+				"url": "https://t.co/MwweGTACSW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MwweGTACSW",
+								"expanded_url": "https://goddesskerrilyn.wordpress.com/blog/",
+								"display_url": "goddesskerrilyn.wordpress.com/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dxiW6zhl1A",
+								"expanded_url": "http://bit.ly/296iGIi",
+								"display_url": "bit.ly/296iGIi",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10469,
+				"friends_count": 111,
+				"listed_count": 240,
+				"created_at": "Sun Dec 14 03:06:10 +0000 2014",
+				"favourites_count": 1675,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2920759605/1441731753",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 01:16:32 +0000 2016",
+		"id": 776590560983474200,
+		"id_str": "776590560983474176",
+		"text": "RT @GoddessKerriLyn: WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 4\n✅ u sleep too much\n✅ are u getting enough sleep?\n✅ my friend was cured…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHRONICALLY",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoddessKerriLyn",
+					"name": "Kerri Lyn",
+					"id": 2920759605,
+					"id_str": "2920759605",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1543,
+			"friends_count": 1530,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10170,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 15 22:23:18 +0000 2016",
+			"id": 776546964657889300,
+			"id_str": "776546964657889280",
+			"text": "WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 4\n✅ u sleep too much\n✅ are u getting enough sleep?\n✅ my friend was cured by..\n✅ Dr. Oz says..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CHRONICALLY",
+						"indices": [
+							23,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 776546370400518100,
+			"in_reply_to_status_id_str": "776546370400518145",
+			"in_reply_to_user_id": 2920759605,
+			"in_reply_to_user_id_str": "2920759605",
+			"in_reply_to_screen_name": "GoddessKerriLyn",
+			"user": {
+				"id": 2920759605,
+				"id_str": "2920759605",
+				"name": "Kerri Lyn",
+				"screen_name": "GoddessKerriLyn",
+				"location": "United States",
+				"description": "♦ Fat Disabled Feminist Witch ♦The B in LGBT ♦#BlackLivesMatter♦#ImWithHer ♦#TrumpIsARapist♦GoddessKerriLyn{at}gmail ♦Facebook: https://t.co/dxiW6zhl1A",
+				"url": "https://t.co/MwweGTACSW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MwweGTACSW",
+								"expanded_url": "https://goddesskerrilyn.wordpress.com/blog/",
+								"display_url": "goddesskerrilyn.wordpress.com/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dxiW6zhl1A",
+								"expanded_url": "http://bit.ly/296iGIi",
+								"display_url": "bit.ly/296iGIi",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10469,
+				"friends_count": 111,
+				"listed_count": 240,
+				"created_at": "Sun Dec 14 03:06:10 +0000 2014",
+				"favourites_count": 1675,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2920759605/1441731753",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 01:16:09 +0000 2016",
+		"id": 776590464929652700,
+		"id_str": "776590464929652737",
+		"text": "RT @GoddessKerriLyn: WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 3\n✅ have u tried...\n✅ you need to get out more\n✅ it can't be that bad\n✅…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHRONICALLY",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoddessKerriLyn",
+					"name": "Kerri Lyn",
+					"id": 2920759605,
+					"id_str": "2920759605",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1543,
+			"friends_count": 1530,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10170,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 15 22:20:56 +0000 2016",
+			"id": 776546370400518100,
+			"id_str": "776546370400518145",
+			"text": "WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 3\n✅ have u tried...\n✅ you need to get out more\n✅ it can't be that bad\n✅ fake it till u make it",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CHRONICALLY",
+						"indices": [
+							23,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 776545837501603800,
+			"in_reply_to_status_id_str": "776545837501603845",
+			"in_reply_to_user_id": 2920759605,
+			"in_reply_to_user_id_str": "2920759605",
+			"in_reply_to_screen_name": "GoddessKerriLyn",
+			"user": {
+				"id": 2920759605,
+				"id_str": "2920759605",
+				"name": "Kerri Lyn",
+				"screen_name": "GoddessKerriLyn",
+				"location": "United States",
+				"description": "♦ Fat Disabled Feminist Witch ♦The B in LGBT ♦#BlackLivesMatter♦#ImWithHer ♦#TrumpIsARapist♦GoddessKerriLyn{at}gmail ♦Facebook: https://t.co/dxiW6zhl1A",
+				"url": "https://t.co/MwweGTACSW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MwweGTACSW",
+								"expanded_url": "https://goddesskerrilyn.wordpress.com/blog/",
+								"display_url": "goddesskerrilyn.wordpress.com/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dxiW6zhl1A",
+								"expanded_url": "http://bit.ly/296iGIi",
+								"display_url": "bit.ly/296iGIi",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10469,
+				"friends_count": 111,
+				"listed_count": 240,
+				"created_at": "Sun Dec 14 03:06:10 +0000 2014",
+				"favourites_count": 1675,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2920759605/1441731753",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 01:15:50 +0000 2016",
+		"id": 776590382050185200,
+		"id_str": "776590382050185216",
+		"text": "RT @GoddessKerriLyn: WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 2\n✅ you're just depressed\n✅ this too shall pass\n✅ cheer up, u need a mor…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHRONICALLY",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoddessKerriLyn",
+					"name": "Kerri Lyn",
+					"id": 2920759605,
+					"id_str": "2920759605",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1543,
+			"friends_count": 1530,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10170,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 15 22:18:49 +0000 2016",
+			"id": 776545837501603800,
+			"id_str": "776545837501603845",
+			"text": "WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 2\n✅ you're just depressed\n✅ this too shall pass\n✅ cheer up, u need a more positive attitude",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CHRONICALLY",
+						"indices": [
+							23,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 776545508479344600,
+			"in_reply_to_status_id_str": "776545508479344640",
+			"in_reply_to_user_id": 2920759605,
+			"in_reply_to_user_id_str": "2920759605",
+			"in_reply_to_screen_name": "GoddessKerriLyn",
+			"user": {
+				"id": 2920759605,
+				"id_str": "2920759605",
+				"name": "Kerri Lyn",
+				"screen_name": "GoddessKerriLyn",
+				"location": "United States",
+				"description": "♦ Fat Disabled Feminist Witch ♦The B in LGBT ♦#BlackLivesMatter♦#ImWithHer ♦#TrumpIsARapist♦GoddessKerriLyn{at}gmail ♦Facebook: https://t.co/dxiW6zhl1A",
+				"url": "https://t.co/MwweGTACSW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MwweGTACSW",
+								"expanded_url": "https://goddesskerrilyn.wordpress.com/blog/",
+								"display_url": "goddesskerrilyn.wordpress.com/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dxiW6zhl1A",
+								"expanded_url": "http://bit.ly/296iGIi",
+								"display_url": "bit.ly/296iGIi",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10469,
+				"friends_count": 111,
+				"listed_count": 240,
+				"created_at": "Sun Dec 14 03:06:10 +0000 2014",
+				"favourites_count": 1675,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2920759605/1441731753",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 01:15:45 +0000 2016",
+		"id": 776590362282434600,
+		"id_str": "776590362282434560",
+		"text": "RT @GoddessKerriLyn: WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 1\n✅ it must be nice not 2 go to work\n✅ I wish I had time 2 take a nap\n✅…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHRONICALLY",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoddessKerriLyn",
+					"name": "Kerri Lyn",
+					"id": 2920759605,
+					"id_str": "2920759605",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1543,
+			"friends_count": 1530,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10170,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 15 22:17:31 +0000 2016",
+			"id": 776545508479344600,
+			"id_str": "776545508479344640",
+			"text": "WHAT NOT TO SAY TO THE #CHRONICALLY ILL, part 1\n✅ it must be nice not 2 go to work\n✅ I wish I had time 2 take a nap\n✅ u just need 2 exercise",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CHRONICALLY",
+						"indices": [
+							23,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 776544479323033600,
+			"in_reply_to_status_id_str": "776544479323033601",
+			"in_reply_to_user_id": 2920759605,
+			"in_reply_to_user_id_str": "2920759605",
+			"in_reply_to_screen_name": "GoddessKerriLyn",
+			"user": {
+				"id": 2920759605,
+				"id_str": "2920759605",
+				"name": "Kerri Lyn",
+				"screen_name": "GoddessKerriLyn",
+				"location": "United States",
+				"description": "♦ Fat Disabled Feminist Witch ♦The B in LGBT ♦#BlackLivesMatter♦#ImWithHer ♦#TrumpIsARapist♦GoddessKerriLyn{at}gmail ♦Facebook: https://t.co/dxiW6zhl1A",
+				"url": "https://t.co/MwweGTACSW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MwweGTACSW",
+								"expanded_url": "https://goddesskerrilyn.wordpress.com/blog/",
+								"display_url": "goddesskerrilyn.wordpress.com/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dxiW6zhl1A",
+								"expanded_url": "http://bit.ly/296iGIi",
+								"display_url": "bit.ly/296iGIi",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10469,
+				"friends_count": 111,
+				"listed_count": 240,
+				"created_at": "Sun Dec 14 03:06:10 +0000 2014",
+				"favourites_count": 1675,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747125522551844865/sxnF-hUx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2920759605/1441731753",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 15 14:54:18 +0000 2016",
+		"id": 776433967993983000,
+		"id_str": "776433967993982976",
+		"text": "while my #CVS dashboard is still buggy.. am grateful that I can sort RX diff ways, download, print. now have meds in my database! : )",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CVS",
+					"indices": [
+						9,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1543,
+			"friends_count": 1530,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10170,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 15 14:33:36 +0000 2016",
+		"id": 776428759268352000,
+		"id_str": "776428759268352000",
+		"text": "Favorize — Highlight, share and discover bite-size content https://t.co/oMHOsYayzn #tech #feedly",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tech",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "feedly",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oMHOsYayzn",
+					"expanded_url": "https://www.producthunt.com/r/48b4ac15964e49/76021?app_id=339",
+					"display_url": "producthunt.com/r/48b4ac15964e…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1543,
+			"friends_count": 1530,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10170,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 15 02:08:55 +0000 2016",
+		"id": 776241353126735900,
+		"id_str": "776241353126735873",
+		"text": "A much needed history lesson on post-slavery America  https://t.co/MpQk3C0yTv via @rambeling",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rambeling",
+					"name": "Rambeling",
+					"id": 359618413,
+					"id_str": "359618413",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MpQk3C0yTv",
+					"expanded_url": "https://storify.com/Rambeling/knowledge",
+					"display_url": "storify.com/Rambeling/know…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1543,
+			"friends_count": 1530,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10170,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 15 01:49:40 +0000 2016",
+		"id": 776236508319719400,
+		"id_str": "776236508319719424",
+		"text": "RT @BoingBoing: Scientists have determined that dolphin speak to one another in sentences up to 5 words long https://t.co/muHpdeaij8 https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoingBoing",
+					"name": "Boing Boing",
+					"id": 5971922,
+					"id_str": "5971922",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/muHpdeaij8",
+					"expanded_url": "http://boingboing.net/2016/09/13/scientists-finally-catch-dolph.html",
+					"display_url": "boingboing.net/2016/09/13/sci…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 776122832497549300,
+					"id_str": "776122832497549314",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CsVXmqUWIAIWFZ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsVXmqUWIAIWFZ9.jpg",
+					"url": "https://t.co/fFVMUtg75B",
+					"display_url": "pic.twitter.com/fFVMUtg75B",
+					"expanded_url": "https://twitter.com/BoingBoing/status/776122835177705472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 809,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 809,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776122835177705500,
+					"source_status_id_str": "776122835177705472",
+					"source_user_id": 5971922,
+					"source_user_id_str": "5971922"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776122832497549300,
+					"id_str": "776122832497549314",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CsVXmqUWIAIWFZ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsVXmqUWIAIWFZ9.jpg",
+					"url": "https://t.co/fFVMUtg75B",
+					"display_url": "pic.twitter.com/fFVMUtg75B",
+					"expanded_url": "https://twitter.com/BoingBoing/status/776122835177705472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 809,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 809,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776122835177705500,
+					"source_status_id_str": "776122835177705472",
+					"source_user_id": 5971922,
+					"source_user_id_str": "5971922"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1543,
+			"friends_count": 1530,
+			"listed_count": 149,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 10170,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 14 18:17:58 +0000 2016",
+			"id": 776122835177705500,
+			"id_str": "776122835177705472",
+			"text": "Scientists have determined that dolphin speak to one another in sentences up to 5 words long https://t.co/muHpdeaij8 https://t.co/fFVMUtg75B",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/muHpdeaij8",
+						"expanded_url": "http://boingboing.net/2016/09/13/scientists-finally-catch-dolph.html",
+						"display_url": "boingboing.net/2016/09/13/sci…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 776122832497549300,
+						"id_str": "776122832497549314",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CsVXmqUWIAIWFZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsVXmqUWIAIWFZ9.jpg",
+						"url": "https://t.co/fFVMUtg75B",
+						"display_url": "pic.twitter.com/fFVMUtg75B",
+						"expanded_url": "https://twitter.com/BoingBoing/status/776122835177705472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 537,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 809,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 809,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776122832497549300,
+						"id_str": "776122832497549314",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CsVXmqUWIAIWFZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsVXmqUWIAIWFZ9.jpg",
+						"url": "https://t.co/fFVMUtg75B",
+						"display_url": "pic.twitter.com/fFVMUtg75B",
+						"expanded_url": "https://twitter.com/BoingBoing/status/776122835177705472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 537,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 809,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 809,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5971922,
+				"id_str": "5971922",
+				"name": "Boing Boing",
+				"screen_name": "BoingBoing",
+				"location": "Directory of Wonderful Things",
+				"description": "28 years old! “One little website” —@realDonaldTrump. “An icon for the hipster generation and a byword for successful blogging”—@breitbartnews",
+				"url": "https://t.co/84Dq61NblP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/84Dq61NblP",
+								"expanded_url": "http://www.boingboing.net",
+								"display_url": "boingboing.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 228906,
+				"friends_count": 1610,
+				"listed_count": 13314,
+				"created_at": "Fri May 11 19:14:39 +0000 2007",
+				"favourites_count": 9731,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 145756,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504445339894435841/gs4kNTTr.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504445339894435841/gs4kNTTr.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616924998226153472/0EfZYjr2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616924998226153472/0EfZYjr2_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5971922/1435347157",
+				"profile_link_color": "CC0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DCDCDC",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 14 18:54:20 +0000 2016",
 		"id": 776131986448678900,
 		"id_str": "776131986448678917",
