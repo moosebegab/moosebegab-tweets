@@ -1,6 +1,2191 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 00:45:13 +0000 2016",
+		"id": 792165356530008000,
+		"id_str": "792165356530008064",
+		"text": "RT @STEWest: Five, FIVE big white men in riot gear, slamming tiny native woman with a prayer stick. America. Look. Do. Better. .@POTUS Stop…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "STEWest",
+					"name": "Shelby Edwards",
+					"id": 267874233,
+					"id_str": "267874233",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "POTUS",
+					"name": "President Obama",
+					"id": 1536791610,
+					"id_str": "1536791610",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1559,
+			"friends_count": 1552,
+			"listed_count": 157,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 11076,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 28 23:37:24 +0000 2016",
+			"id": 792148288614993900,
+			"id_str": "792148288614993922",
+			"text": "Five, FIVE big white men in riot gear, slamming tiny native woman with a prayer stick. America. Look. Do. Better. .… https://t.co/fX8tXFUWia",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fX8tXFUWia",
+						"expanded_url": "https://twitter.com/i/web/status/792148288614993922",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 267874233,
+				"id_str": "267874233",
+				"name": "Shelby Edwards",
+				"screen_name": "STEWest",
+				"location": "Vashon Island, USA",
+				"description": "Writer | Much experience with things going sideways and other risky business. | Army Vet | Outside. Go outside, all of you.",
+				"url": "http://t.co/fNXj14fKgw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fNXj14fKgw",
+								"expanded_url": "http://www.shelbyedwards.com",
+								"display_url": "shelbyedwards.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 383,
+				"friends_count": 549,
+				"listed_count": 37,
+				"created_at": "Thu Mar 17 18:19:04 +0000 2011",
+				"favourites_count": 6110,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6905,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFEFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/262667393/grass.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/262667393/grass.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000646440469/70e19c5fb3a020a2b9f3f9bb8c88c724_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000646440469/70e19c5fb3a020a2b9f3f9bb8c88c724_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/267874233/1425264992",
+				"profile_link_color": "3B5782",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 791968831891615700,
+			"quoted_status_id_str": "791968831891615745",
+			"quoted_status": {
+				"created_at": "Fri Oct 28 11:44:18 +0000 2016",
+				"id": 791968831891615700,
+				"id_str": "791968831891615745",
+				"text": "They claimed that this Elder had a gun. She was holding a prayer stick. #NoDAPL #IStandWithStandingRock https://t.co/1Efkas76Bg",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "NoDAPL",
+							"indices": [
+								72,
+								79
+							]
+						},
+						{
+							"text": "IStandWithStandingRock",
+							"indices": [
+								80,
+								103
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 791968824937414700,
+							"id_str": "791968824937414658",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/Cv2jc0OUAAID0qd.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Cv2jc0OUAAID0qd.jpg",
+							"url": "https://t.co/1Efkas76Bg",
+							"display_url": "pic.twitter.com/1Efkas76Bg",
+							"expanded_url": "https://twitter.com/PMagouirk/status/791968831891615745/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 960,
+									"h": 640,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 960,
+									"h": 640,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 453,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 791968824937414700,
+							"id_str": "791968824937414658",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/Cv2jc0OUAAID0qd.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Cv2jc0OUAAID0qd.jpg",
+							"url": "https://t.co/1Efkas76Bg",
+							"display_url": "pic.twitter.com/1Efkas76Bg",
+							"expanded_url": "https://twitter.com/PMagouirk/status/791968831891615745/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 960,
+									"h": 640,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 960,
+									"h": 640,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 453,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 24306594,
+					"id_str": "24306594",
+					"name": "Lakota Child",
+					"screen_name": "PMagouirk",
+					"location": "Central Texas",
+					"description": "Attorney at Law/Native American Instagram: pmagouirk",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8736,
+					"friends_count": 5008,
+					"listed_count": 192,
+					"created_at": "Sat Mar 14 02:00:18 +0000 2009",
+					"favourites_count": 74051,
+					"utc_offset": -18000,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 85022,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "642D8B",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432980075856666624/Ts-pcIG-.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432980075856666624/Ts-pcIG-.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/762263752876011521/3ZvRBw08_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/762263752876011521/3ZvRBw08_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/24306594/1473126083",
+					"profile_link_color": "FF0000",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "7AC3EE",
+					"profile_text_color": "3D1957",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2421,
+				"favorite_count": 1290,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 53,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 791968831891615700,
+		"quoted_status_id_str": "791968831891615745",
+		"retweet_count": 53,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 28 23:28:40 +0000 2016",
+		"id": 792146091861041200,
+		"id_str": "792146091861041152",
+		"text": "RT @bunnybuddhism: The wise bunny practices remembering and concentrating on positive hops.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bunnybuddhism",
+					"name": "Bunny Buddhism",
+					"id": 151971904,
+					"id_str": "151971904",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1559,
+			"friends_count": 1552,
+			"listed_count": 157,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 11076,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 28 23:25:55 +0000 2016",
+			"id": 792145401637994500,
+			"id_str": "792145401637994496",
+			"text": "The wise bunny practices remembering and concentrating on positive hops.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 151971904,
+				"id_str": "151971904",
+				"name": "Bunny Buddhism",
+				"screen_name": "bunnybuddhism",
+				"location": "Hopping the middle way",
+				"description": "May all beings achieve #bunniness and freedom from non-bunniness. / Need more bunny wisdom? Check out the @bunnybuddhism book at http://t.co/PDSlP3oxbl.",
+				"url": "http://t.co/5KoJzTcBWr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5KoJzTcBWr",
+								"expanded_url": "http://bunnybuddhism.com",
+								"display_url": "bunnybuddhism.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/PDSlP3oxbl",
+								"expanded_url": "http://bunnybuddhism.com/buy-the-book/",
+								"display_url": "bunnybuddhism.com/buy-the-book/",
+								"indices": [
+									129,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 48883,
+				"friends_count": 47131,
+				"listed_count": 787,
+				"created_at": "Fri Jun 04 18:41:48 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2419,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445201856478736384/1I6RqkHG.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445201856478736384/1I6RqkHG.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/447374371917922304/P4BzupWu_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/447374371917922304/P4BzupWu_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/151971904/1398716280",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C6E7F7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 115,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 28 22:53:15 +0000 2016",
+		"id": 792137180772786200,
+		"id_str": "792137180772786177",
+		"text": "RT @imraansiddiqi: Thousands of Wild Buffalo Appear Out of Nowhere at Standing Rock  https://t.co/5ZU6mA29X9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imraansiddiqi",
+					"name": "Imraan Siddiqi",
+					"id": 156370763,
+					"id_str": "156370763",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5ZU6mA29X9",
+					"expanded_url": "http://usuncut.com/resistance/thousands-wild-buffalo-appear-nowhere-standing-rock/",
+					"display_url": "usuncut.com/resistance/tho…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1559,
+			"friends_count": 1552,
+			"listed_count": 157,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 11076,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 28 21:44:52 +0000 2016",
+			"id": 792119970582802400,
+			"id_str": "792119970582802432",
+			"text": "Thousands of Wild Buffalo Appear Out of Nowhere at Standing Rock  https://t.co/5ZU6mA29X9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5ZU6mA29X9",
+						"expanded_url": "http://usuncut.com/resistance/thousands-wild-buffalo-appear-nowhere-standing-rock/",
+						"display_url": "usuncut.com/resistance/tho…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 156370763,
+				"id_str": "156370763",
+				"name": "Imraan Siddiqi",
+				"screen_name": "imraansiddiqi",
+				"location": "Phoenix, AZ",
+				"description": "writer + activist + head of nonprofit",
+				"url": "https://t.co/QHIPptLlwj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QHIPptLlwj",
+								"expanded_url": "http://hatehurts.net",
+								"display_url": "hatehurts.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20930,
+				"friends_count": 753,
+				"listed_count": 434,
+				"created_at": "Wed Jun 16 19:27:06 +0000 2010",
+				"favourites_count": 23587,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 61934,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/670092827494383616/4UnPjYmB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/670092827494383616/4UnPjYmB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/156370763/1453237610",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 28 22:29:04 +0000 2016",
+		"id": 792131092979576800,
+		"id_str": "792131092979576832",
+		"text": "RT @woodmeister1003: A misty 🌅 over River Trent at North Muskham a few days ago. https://t.co/7WjvbDrWy5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "woodmeister1003",
+					"name": "Woody",
+					"id": 2978247569,
+					"id_str": "2978247569",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 792052378522554400,
+					"id_str": "792052378522554368",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Cv3vcRlXEAAc7j4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cv3vcRlXEAAc7j4.jpg",
+					"url": "https://t.co/7WjvbDrWy5",
+					"display_url": "pic.twitter.com/7WjvbDrWy5",
+					"expanded_url": "https://twitter.com/woodmeister1003/status/792052389423542272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792052389423542300,
+					"source_status_id_str": "792052389423542272",
+					"source_user_id": 2978247569,
+					"source_user_id_str": "2978247569"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 792052378522554400,
+					"id_str": "792052378522554368",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Cv3vcRlXEAAc7j4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cv3vcRlXEAAc7j4.jpg",
+					"url": "https://t.co/7WjvbDrWy5",
+					"display_url": "pic.twitter.com/7WjvbDrWy5",
+					"expanded_url": "https://twitter.com/woodmeister1003/status/792052389423542272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792052389423542300,
+					"source_status_id_str": "792052389423542272",
+					"source_user_id": 2978247569,
+					"source_user_id_str": "2978247569"
+				},
+				{
+					"id": 792052378518388700,
+					"id_str": "792052378518388736",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Cv3vcRkXgAAhpHI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cv3vcRkXgAAhpHI.jpg",
+					"url": "https://t.co/7WjvbDrWy5",
+					"display_url": "pic.twitter.com/7WjvbDrWy5",
+					"expanded_url": "https://twitter.com/woodmeister1003/status/792052389423542272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792052389423542300,
+					"source_status_id_str": "792052389423542272",
+					"source_user_id": 2978247569,
+					"source_user_id_str": "2978247569"
+				},
+				{
+					"id": 792052378518315000,
+					"id_str": "792052378518315010",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Cv3vcRkWYAIJily.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cv3vcRkWYAIJily.jpg",
+					"url": "https://t.co/7WjvbDrWy5",
+					"display_url": "pic.twitter.com/7WjvbDrWy5",
+					"expanded_url": "https://twitter.com/woodmeister1003/status/792052389423542272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792052389423542300,
+					"source_status_id_str": "792052389423542272",
+					"source_user_id": 2978247569,
+					"source_user_id_str": "2978247569"
+				},
+				{
+					"id": 792052378522513400,
+					"id_str": "792052378522513408",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Cv3vcRlWcAAkPeZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cv3vcRlWcAAkPeZ.jpg",
+					"url": "https://t.co/7WjvbDrWy5",
+					"display_url": "pic.twitter.com/7WjvbDrWy5",
+					"expanded_url": "https://twitter.com/woodmeister1003/status/792052389423542272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792052389423542300,
+					"source_status_id_str": "792052389423542272",
+					"source_user_id": 2978247569,
+					"source_user_id_str": "2978247569"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1559,
+			"friends_count": 1552,
+			"listed_count": 157,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 11076,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 28 17:16:19 +0000 2016",
+			"id": 792052389423542300,
+			"id_str": "792052389423542272",
+			"text": "A misty 🌅 over River Trent at North Muskham a few days ago. https://t.co/7WjvbDrWy5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 792052378522554400,
+						"id_str": "792052378522554368",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv3vcRlXEAAc7j4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv3vcRlXEAAc7j4.jpg",
+						"url": "https://t.co/7WjvbDrWy5",
+						"display_url": "pic.twitter.com/7WjvbDrWy5",
+						"expanded_url": "https://twitter.com/woodmeister1003/status/792052389423542272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 792052378522554400,
+						"id_str": "792052378522554368",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv3vcRlXEAAc7j4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv3vcRlXEAAc7j4.jpg",
+						"url": "https://t.co/7WjvbDrWy5",
+						"display_url": "pic.twitter.com/7WjvbDrWy5",
+						"expanded_url": "https://twitter.com/woodmeister1003/status/792052389423542272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 792052378518388700,
+						"id_str": "792052378518388736",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv3vcRkXgAAhpHI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv3vcRkXgAAhpHI.jpg",
+						"url": "https://t.co/7WjvbDrWy5",
+						"display_url": "pic.twitter.com/7WjvbDrWy5",
+						"expanded_url": "https://twitter.com/woodmeister1003/status/792052389423542272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 792052378518315000,
+						"id_str": "792052378518315010",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv3vcRkWYAIJily.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv3vcRkWYAIJily.jpg",
+						"url": "https://t.co/7WjvbDrWy5",
+						"display_url": "pic.twitter.com/7WjvbDrWy5",
+						"expanded_url": "https://twitter.com/woodmeister1003/status/792052389423542272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 792052378522513400,
+						"id_str": "792052378522513408",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv3vcRlWcAAkPeZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv3vcRlWcAAkPeZ.jpg",
+						"url": "https://t.co/7WjvbDrWy5",
+						"display_url": "pic.twitter.com/7WjvbDrWy5",
+						"expanded_url": "https://twitter.com/woodmeister1003/status/792052389423542272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1364,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2978247569,
+				"id_str": "2978247569",
+				"name": "Woody",
+				"screen_name": "woodmeister1003",
+				"location": "",
+				"description": "Ramblings & obs of Doddery Old Bugger. V proud Dad.1st visit to B6 1964. Love golf, wildlife, cooking & photography. Owned by rescued greyhound. ❤️❤️❤️Mrs Woody",
+				"url": "https://t.co/pEOXKjL6ws",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pEOXKjL6ws",
+								"expanded_url": "https://www.flickr.com/photos/woody1003/",
+								"display_url": "flickr.com/photos/woody10…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 541,
+				"friends_count": 678,
+				"listed_count": 25,
+				"created_at": "Wed Jan 14 15:52:45 +0000 2015",
+				"favourites_count": 7202,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4664,
+				"lang": "en-GB",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/708023940552265728/jTro1ial_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/708023940552265728/jTro1ial_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2978247569/1425909724",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 13,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 28 22:05:16 +0000 2016",
+		"id": 792125103865724900,
+		"id_str": "792125103865724928",
+		"text": "RT @GranthamEcology: I just love how ungainly these #toads are in #slowmo! https://t.co/94x1fHGJWp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "toads",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "slowmo",
+					"indices": [
+						66,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GranthamEcology",
+					"name": "Grantham Ecologist",
+					"id": 465923932,
+					"id_str": "465923932",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 791736303683526700,
+					"id_str": "791736303683526656",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/791736303683526656/pu/img/bhlaLBbg_usnv316.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/791736303683526656/pu/img/bhlaLBbg_usnv316.jpg",
+					"url": "https://t.co/94x1fHGJWp",
+					"display_url": "pic.twitter.com/94x1fHGJWp",
+					"expanded_url": "https://twitter.com/GranthamEcology/status/791736738377064452/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 791736738377064400,
+					"source_status_id_str": "791736738377064452",
+					"source_user_id": 465923932,
+					"source_user_id_str": "465923932"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 791736303683526700,
+					"id_str": "791736303683526656",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/791736303683526656/pu/img/bhlaLBbg_usnv316.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/791736303683526656/pu/img/bhlaLBbg_usnv316.jpg",
+					"url": "https://t.co/94x1fHGJWp",
+					"display_url": "pic.twitter.com/94x1fHGJWp",
+					"expanded_url": "https://twitter.com/GranthamEcology/status/791736738377064452/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 791736738377064400,
+					"source_status_id_str": "791736738377064452",
+					"source_user_id": 465923932,
+					"source_user_id_str": "465923932",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20867,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/791736303683526656/pu/vid/640x360/1KGmzXsOFpnT4vOb.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/791736303683526656/pu/pl/Q7g46XKXTY9bSpi9.m3u8"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/791736303683526656/pu/pl/Q7g46XKXTY9bSpi9.mpd"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/791736303683526656/pu/vid/320x180/J0dnZBFD0u4Y6RYx.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 465923932,
+							"id_str": "465923932",
+							"name": "Grantham Ecologist",
+							"screen_name": "GranthamEcology",
+							"location": "Grantham, Lincolnshire",
+							"description": "Ecology as passion and profession, usually exploring local natural history when not surveying far-flung corners of the country for bats, newts, badgers...",
+							"url": "http://t.co/qRfnG3lXNH",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/qRfnG3lXNH",
+											"expanded_url": "http://granthamecology.wordpress.com/",
+											"display_url": "granthamecology.wordpress.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3777,
+							"friends_count": 2712,
+							"listed_count": 92,
+							"created_at": "Mon Jan 16 21:44:59 +0000 2012",
+							"favourites_count": 11615,
+							"utc_offset": 3600,
+							"time_zone": "London",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 6345,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/737985505329975296/OrbzG1XB_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/737985505329975296/OrbzG1XB_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/465923932/1462870552",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1559,
+			"friends_count": 1552,
+			"listed_count": 157,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 11076,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 27 20:22:02 +0000 2016",
+			"id": 791736738377064400,
+			"id_str": "791736738377064452",
+			"text": "I just love how ungainly these #toads are in #slowmo! https://t.co/94x1fHGJWp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "toads",
+						"indices": [
+							31,
+							37
+						]
+					},
+					{
+						"text": "slowmo",
+						"indices": [
+							45,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 791736303683526700,
+						"id_str": "791736303683526656",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/791736303683526656/pu/img/bhlaLBbg_usnv316.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/791736303683526656/pu/img/bhlaLBbg_usnv316.jpg",
+						"url": "https://t.co/94x1fHGJWp",
+						"display_url": "pic.twitter.com/94x1fHGJWp",
+						"expanded_url": "https://twitter.com/GranthamEcology/status/791736738377064452/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 791736303683526700,
+						"id_str": "791736303683526656",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/791736303683526656/pu/img/bhlaLBbg_usnv316.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/791736303683526656/pu/img/bhlaLBbg_usnv316.jpg",
+						"url": "https://t.co/94x1fHGJWp",
+						"display_url": "pic.twitter.com/94x1fHGJWp",
+						"expanded_url": "https://twitter.com/GranthamEcology/status/791736738377064452/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 20867,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/791736303683526656/pu/vid/640x360/1KGmzXsOFpnT4vOb.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/791736303683526656/pu/pl/Q7g46XKXTY9bSpi9.m3u8"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/791736303683526656/pu/pl/Q7g46XKXTY9bSpi9.mpd"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/791736303683526656/pu/vid/320x180/J0dnZBFD0u4Y6RYx.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 465923932,
+				"id_str": "465923932",
+				"name": "Grantham Ecologist",
+				"screen_name": "GranthamEcology",
+				"location": "Grantham, Lincolnshire",
+				"description": "Ecology as passion and profession, usually exploring local natural history when not surveying far-flung corners of the country for bats, newts, badgers...",
+				"url": "http://t.co/qRfnG3lXNH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qRfnG3lXNH",
+								"expanded_url": "http://granthamecology.wordpress.com/",
+								"display_url": "granthamecology.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3777,
+				"friends_count": 2712,
+				"listed_count": 92,
+				"created_at": "Mon Jan 16 21:44:59 +0000 2012",
+				"favourites_count": 11615,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6345,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/737985505329975296/OrbzG1XB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/737985505329975296/OrbzG1XB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/465923932/1462870552",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 386,
+			"favorite_count": 555,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 28 21:10:33 +0000 2016",
+		"id": 792111335853162500,
+		"id_str": "792111335853162496",
+		"text": "RT @rev_heather: This gives me goosebumps. https://t.co/EY2G5ZskCb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rev_heather",
+					"name": "Heather McCance",
+					"id": 27905866,
+					"id_str": "27905866",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EY2G5ZskCb",
+					"expanded_url": "https://twitter.com/jmal71/status/792107484114669568",
+					"display_url": "twitter.com/jmal71/status/…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93747129,
+			"id_str": "93747129",
+			"name": "Gabrielle P Campbell",
+			"screen_name": "moosebegab",
+			"location": "Millbrook, New York",
+			"description": "I love animals, nature, reading, staying at home. Excitement is NOT my middle name. Fat, lazy cow. Anarchist.",
+			"url": "https://t.co/3uW3O1UHJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3uW3O1UHJt",
+							"expanded_url": "http://www.moosebegab.wordpress.com",
+							"display_url": "moosebegab.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1559,
+			"friends_count": 1552,
+			"listed_count": 157,
+			"created_at": "Tue Dec 01 00:25:03 +0000 2009",
+			"favourites_count": 11076,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44702,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670778189/afc794e8fa525e4055a07235f284941f.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1618032034/gabipodtouchchair_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93747129/1463793975",
+			"profile_link_color": "5A5247",
+			"profile_sidebar_border_color": "794725",
+			"profile_sidebar_fill_color": "1D130D",
+			"profile_text_color": "AA642E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 28 20:57:23 +0000 2016",
+			"id": 792108019777736700,
+			"id_str": "792108019777736704",
+			"text": "This gives me goosebumps. https://t.co/EY2G5ZskCb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EY2G5ZskCb",
+						"expanded_url": "https://twitter.com/jmal71/status/792107484114669568",
+						"display_url": "twitter.com/jmal71/status/…",
+						"indices": [
+							26,
+							49
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27905866,
+				"id_str": "27905866",
+				"name": "Heather McCance",
+				"screen_name": "rev_heather",
+				"location": "Toronto",
+				"description": "human being, lover, mom, friend, priest, level 6 cheerleader, coach, DMin student, child of God",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1908,
+				"friends_count": 2177,
+				"listed_count": 125,
+				"created_at": "Tue Mar 31 16:33:44 +0000 2009",
+				"favourites_count": 7223,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29696,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/162941393/twilk_background_4cbc7b87835ff.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/162941393/twilk_background_4cbc7b87835ff.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741797818600435712/MMrRhgJC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741797818600435712/MMrRhgJC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27905866/1416542614",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 792107484114669600,
+			"quoted_status_id_str": "792107484114669568",
+			"quoted_status": {
+				"created_at": "Fri Oct 28 20:55:15 +0000 2016",
+				"id": 792107484114669600,
+				"id_str": "792107484114669568",
+				"text": "Thousands of Wild Buffalo Appear Out of Nowhere at Standing Rock (VIDEO) https://t.co/os2XYkLEgh",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/os2XYkLEgh",
+							"expanded_url": "http://usuncut.com/resistance/thousands-wild-buffalo-appear-nowhere-standing-rock/",
+							"display_url": "usuncut.com/resistance/tho…",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1335043297,
+					"id_str": "1335043297",
+					"name": "Jeri Malone",
+					"screen_name": "jmal71",
+					"location": "",
+					"description": "Jeri Malone is a progressive thinking socialist. Believe's in advocating for those who can't. Values the underdog and believes strongly in grassroot movements .",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 31,
+					"friends_count": 101,
+					"listed_count": 1,
+					"created_at": "Sun Apr 07 20:33:06 +0000 2013",
+					"favourites_count": 328,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 577,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/423945011026087937/UWLdXALP_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/423945011026087937/UWLdXALP_normal.jpeg",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 792107484114669600,
+		"quoted_status_id_str": "792107484114669568",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 28 01:15:57 +0000 2016",
 		"id": 791810702042341400,
 		"id_str": "791810702042341377",
